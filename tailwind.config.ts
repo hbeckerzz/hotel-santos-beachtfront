@@ -8,6 +8,14 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors:{
+        'seagull': {
+          '50':'#edfbfe',
+          '100':'#d3f3fa',
+          '200':'#ace7f5',
+          '300':'#53c9ea'
+        }
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
