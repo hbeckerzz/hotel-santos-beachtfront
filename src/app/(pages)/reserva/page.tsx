@@ -3,7 +3,7 @@ import Header from "@/components/ui/Header";
 
 
 
-export default function Acomodacao(){
+export default function Reserva(){
     return(
         <main>
             <Header/>

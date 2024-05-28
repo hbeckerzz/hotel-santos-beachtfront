@@ -19,8 +19,8 @@ export default function Header(){
                         <li className="px-3 py-1 cursor-pointer bg-seagull-100 rounded-lg hover:bg-seagull-200 transition-colors"><a href="/hotel">hotel</a></li>
                         <li className="px-3 py-1 cursor-pointer bg-seagull-100 rounded-lg hover:bg-seagull-200 transition-colors"><a href="/acomodacao">acomodações</a></li>
                         <li className="px-3 py-1 cursor-pointer bg-seagull-100 rounded-lg hover:bg-seagull-200 transition-colors"><a href="/lazer">lazer</a></li>
-                        <li className="px-3 py-1 cursor-pointer bg-seagull-100 rounded-lg hover:bg-seagull-200 transition-colors"><a href="/contato"></a>contato</li>
-                        <li className="px-3 py-1 cursor-pointer bg-seagull-100 rounded-lg hover:bg-seagull-200 transition-colors"><a href="/pre-chekin"></a>pré-checkin</li>
+                        <li className="px-3 py-1 cursor-pointer bg-seagull-100 rounded-lg hover:bg-seagull-200 transition-colors"><a href="/contato">contato</a></li>
+                        <li className="px-3 py-1 cursor-pointer bg-seagull-100 rounded-lg hover:bg-seagull-200 transition-colors"><a href="/login">Login</a></li>
                     </ul>
                 </nav>
             </div>
