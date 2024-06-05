@@ -11,7 +11,7 @@ const Quadrado = () => {
               O Hotel oferece 4 categorias confortáveis e bem equipadas, incluindo quartos padrão e suítes, com amenidades modernas e decoração elegante, para uma estadia relaxante e agradável.
             </p>
           </div>
-          <a href="../Acomodações/acomodações.html" className="inline-block py-2 px-4 min-w-[100px] bg-blue-300 text-black no-underline rounded-md mt-6 hover:text-white">
+          <a href="/acomodacao" className="inline-block py-2 px-4 min-w-[100px] bg-blue-300 text-black no-underline rounded-md mt-6 hover:text-white">
             Conheça
           </a>
         </div>
@@ -23,7 +23,7 @@ const Quadrado = () => {
               Desfrute de uma perfeita harmonia entre acomodações confortáveis e praia a um passo de você.
             </p>
           </div>
-          <a href="../Hotel/Hotel.html" className="inline-block py-2 px-4 min-w-[100px] bg-blue-300 text-black no-underline rounded-md mt-6 hover:text-white">
+          <a href="/hotel" className="inline-block py-2 px-4 min-w-[100px] bg-blue-300 text-black no-underline rounded-md mt-6 hover:text-white">
             Conheça
           </a>
         </div>
@@ -41,7 +41,7 @@ const Quadrado = () => {
               Serviço de bar com petiscos e refrescantes drinks.
             </p>
           </div>
-          <a href="../Lazer/Lazer.html" className="inline-block py-2 px-4 min-w-[100px] bg-blue-300 text-black no-underline rounded-md mt-6 hover:text-white">
+          <a href="/lazer" className="inline-block py-2 px-4 min-w-[100px] bg-blue-300 text-black no-underline rounded-md mt-6 hover:text-white">
             Conheça
           </a>
         </div>
