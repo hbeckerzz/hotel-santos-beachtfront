@@ -3,11 +3,6 @@ import React from 'react';
 const HotelComponente: React.FC = () => {
     return (
         <div className="font-sans bg-gray-100">
-            <button id="btn-menu" className="block md:hidden fixed top-2 right-2 w-12 h-12 border-4 border-gray-400 rounded-lg bg-transparent flex justify-center items-center">
-                <span className="w-6 h-0.5 bg-gray-600 mb-1"></span>
-                <span className="w-6 h-0.5 bg-gray-600 mb-1"></span>
-                <span className="w-6 h-0.5 bg-gray-600 mb-1"></span>
-            </button>
             <main className="container mx-max my-8">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div className="bg-white rounded-lg shadow-lg p-6">
